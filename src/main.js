@@ -13,8 +13,5 @@ process.env.NODE_ENV === 'production' && Sentry.init({
 Vue.config.productionTip = false
 new Vue({
   render: h => h(App),
-  mounted: function () {
-    console.log(this.testFn())
-  }
 }).$mount('#app')
 
