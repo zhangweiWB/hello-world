@@ -1,0 +1,7 @@
+[defaults]
+url=https://sentry.io/
+org=free-c1
+project=javascript-store
+
+[auth]
+token=bed28305aaf34582855e02f8b7a76b97a34752b760504980a49441daf5c68d5b
