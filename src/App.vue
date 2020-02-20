@@ -14,7 +14,7 @@ export default {
     HelloWorld
   },
   mounted: function () {
-    console.log(this.testFn())
+    console.log('app.vue',this.testFn())
   }
 }
 </script>
